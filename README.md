@@ -20,3 +20,6 @@
 
 
 😊："Otaku person"
+
+![snake](https://raw.githubusercontent.com/ZiyangWang2615205/ZiyangWang2615205/output/github-contribution-grid-snake.svg)
+![snake dark](https://raw.githubusercontent.com/ZiyangWang2615205/ZiyangWang2615205/output/github-contribution-grid-snake-dark.svg)
