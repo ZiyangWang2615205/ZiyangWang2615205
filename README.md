@@ -1,4 +1,4 @@
-## Keep studying 😭
+# Keep studying 😭
 
 <img align="right" src="https://count.getloli.com/@gittimmy?name=gittimmy&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="ZiyangWang" width="300"/>
 
@@ -14,3 +14,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## About me
+🏫：a Computer Science(BSc) student from University of Bristol.
+😊："Otaku person"
