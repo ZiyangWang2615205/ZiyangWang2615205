@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## About me
-🏫：A Computer Science(BSc) student from University of Bristol.
+🏫：A Computer Science(BSc) student from the University of Bristol.
 
 
 😊："Otaku person"
