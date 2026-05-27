@@ -1,4 +1,4 @@
-# Keep studying 😭
+# Hi, I am Ziyang
 
 <img align="right" src="https://count.getloli.com/@gittimmy?name=gittimmy&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="ZiyangWang" width="300"/>
 
